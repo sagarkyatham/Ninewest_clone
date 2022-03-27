@@ -27,6 +27,7 @@ We have Created this clone Website by using Media Queries which make our project
     <li>Mallikarjuna Annigeri</li>
     <li>Rishabh Gupta</li>
     <li>Akshay jagtap</li>
+  <li>Sagar Kyatham</li>
   </ul>
  <h3>Screenshots</h3>
   
